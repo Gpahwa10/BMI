@@ -12,7 +12,7 @@ class BMIBrain {
 
   String getResult(){
     if (_bmi>=25) {
-      return 'OVERWEIGHT';
+      return 'OVERWEIGHTT';
     } else if(_bmi>18.5){
       return 'NORMAL';
     }else{
